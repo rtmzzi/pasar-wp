@@ -1,0 +1,24 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">_tokopress_header_custom</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="pasar-wp">
+            <key name="topnav_phone" />
+            <key name="topnav_email" />
+            <key name="topnav_social_1_url" />
+            <key name="topnav_social_2_url" />
+            <key name="topnav_social_3_url" />
+            <key name="topnav_social_4_url" />
+            <key name="topnav_social_5_url" />
+            <key name="footer_left" />
+            <key name="footer_right" />
+            <key name="tokopress_contact_lat" />
+            <key name="tokopress_contact_long" />
+            <key name="tokopress_contact_marker_title" />
+            <key name="tokopress_contact_marker_desc" />
+        </key>
+    </admin-texts>    
+</wpml-config>
+
+
